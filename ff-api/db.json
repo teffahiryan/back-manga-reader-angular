@@ -1,0 +1,32 @@
+{
+  "equipes": [
+    {
+      "id": 1,
+      "nom": "PSG",
+      "adresse": "TOTO 75000 paris"
+    },
+    {
+      "nom": "Calais",
+      "adresse": "Calais 62000",
+      "id": 4
+    },
+    {
+      "nom": "Calais",
+      "adresse": "Calais 62000",
+      "id": 5
+    }
+  ],
+  "joueurs": [
+    {
+      "id": 1,
+      "nom": "Neymar",
+      "poste": "AG",
+      "nationalité": "Brazil",
+      "equipeId": 1
+    },
+    {
+      "nom": "Zizouu",
+      "id": 2
+    }
+  ]
+}
