@@ -29,6 +29,11 @@
       "nom": "Calais",
       "adresse": "Calais 62000",
       "id": 8
+    },
+    {
+      "nom": "Calais",
+      "adresse": "Calais 62000",
+      "id": 9
     }
   ],
   "joueurs": [
