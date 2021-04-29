@@ -1,57 +1,77 @@
 {
-  "equipes": [
+  "mangas": [
     {
+      "nom": "Hajime no Ippo",
+      "img": "imgHa.jpg",
+      "anneePubli": "1989",
       "id": 1,
-      "nom": "PSG",
-      "adresse": "TOTO 75000 paris"
+      "genre": "Action, Humour",
+      "type": "Shonen",
+      "statut": "En cours"
     },
     {
-      "nom": "Calais",
-      "adresse": "Calais 62000",
-      "id": 4
+      "nom": "Naruto",
+      "img": "imgNa.jpg",
+      "anneePubli": "1999",
+      "id": 2,
+      "genre": "Action, Humour",
+      "type": "Shonen",
+      "statut": "Terminé"
     },
     {
-      "nom": "Calais",
-      "adresse": "Calais 62000",
-      "id": 5
+      "nom": "Berserk",
+      "img": "imgBe.jpeg",
+      "anneePubli": "1989",
+      "id": 3,
+      "genre": "Action, horreur",
+      "type": "Seinen",
+      "statut": "En cours"
     },
     {
-      "nom": "Calais",
-      "adresse": "Calais 62000",
-      "id": 6
-    },
-    {
-      "nom": "Calais",
-      "adresse": "Calais 62000",
-      "id": 7
-    },
-    {
-      "nom": "Calais",
-      "adresse": "Calais 62000",
-      "id": 8
-    },
-    {
-      "nom": "Calais",
-      "adresse": "Calais 62000",
-      "id": 9
-    },
-    {
-      "nom": "Ruminghem",
-      "adresse": "Ruminghem 62370",
-      "id": 10
+      "nom": "Solo Leveling",
+      "img": "imgSo.jpg",
+      "anneePubli": "2016",
+      "id": 4,
+      "genre": "Action",
+      "type": "Shonen",
+      "statut": "En cours"
     }
   ],
-  "joueurs": [
+  "chapitres": [
     {
       "id": 1,
-      "nom": "Neymar",
-      "poste": "AG",
-      "nationalité": "Brazil",
-      "equipeId": 1
+      "nom": "Début Ippo",
+      "pageCouverture": "ha1c1p1.PNG",
+      "numero": 1,
+      "MangaId": 1
     },
     {
-      "nom": "Zizouu",
-      "id": 2
+      "id": 2,
+      "nom": "Début Naruto",
+      "pageCouverture": "na1c1p1.PNG",
+      "numero": 1,
+      "MangaId": 2
+    },
+    {
+      "id": 3,
+      "nom": "Début Berserk",
+      "pageCouverture": "be1c1p1.PNG",
+      "numero": 1,
+      "MangaId": 3
+    },
+    {
+      "id": 4,
+      "nom": "Début Solo leveling",
+      "pageCouverture": "so1c1p1.PNG",
+      "numero": 1,
+      "MangaId": 4
+    },
+    {
+      "nom": "Opération tortue",
+      "pageCouverture": "ha1c2p1.PNG",
+      "numero": "2",
+      "MangaId": 1,
+      "id": 5
     }
   ]
 }
