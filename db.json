@@ -43,35 +43,73 @@
       "nom": "Début Ippo",
       "pageCouverture": "ha1c1p1.PNG",
       "numero": 1,
-      "MangaId": 1
+      "MangaId": 1,
+      "pages": []
     },
     {
       "id": 2,
       "nom": "Début Naruto",
       "pageCouverture": "na1c1p1.PNG",
       "numero": 1,
-      "MangaId": 2
+      "MangaId": 2,
+      "pages": []
     },
     {
       "id": 3,
       "nom": "Début Berserk",
       "pageCouverture": "be1c1p1.PNG",
       "numero": 1,
-      "MangaId": 3
+      "MangaId": 3,
+      "pages": [
+        "bec1p1.jpg",
+        "bec1p2.jpg",
+        "bec1p3.jpg",
+        "bec1p4.jpg",
+        "bec1p5.jpg",
+        "bec1p6.jpg",
+        "bec1p7.jpg",
+        "bec1p8.jpg",
+        "bec1p9.jpg",
+        "bec1p10.jpg",
+        "bec1p12.jpg",
+        "bec1p13.jpg",
+        "bec1p14.jpg",
+        "bec1p15.jpg",
+        "bec1p16.jpg",
+        "bec1p17.jpg",
+        "bec1p18.jpg",
+        "bec1p19.jpg",
+        "bec1p20.jpg",
+        "bec1p21.jpg",
+        "bec1p22.jpg",
+        "bec1p23.jpg",
+        "bec1p24.jpg",
+        "bec1p25.jpg"
+      ]
     },
     {
       "id": 4,
       "nom": "Début Solo leveling",
       "pageCouverture": "so1c1p1.PNG",
       "numero": 1,
-      "MangaId": 4
+      "MangaId": 4,
+      "pages": []
     },
     {
       "nom": "Opération tortue",
       "pageCouverture": "ha1c2p1.PNG",
       "numero": "2",
       "MangaId": 1,
-      "id": 5
+      "id": 5,
+      "pages": []
+    },
+    {
+      "nom": "Deuxième chapitre",
+      "pageCouverture": "be1c1p1.PNG",
+      "numero": "2",
+      "MangaId": 3,
+      "id": 6,
+      "pages": []
     }
   ]
 }
